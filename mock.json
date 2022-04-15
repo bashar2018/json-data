@@ -1,0 +1,606 @@
+{
+  "data": {
+    "Login": {
+      "firstName": "",
+      "middleName": "",
+      "lastName": "Werkendamse Verwarmings Industrie B.V.",
+      "gender": "male",
+      "initials": "W",
+      "clientGroup": "InstallatieGroot-SANCVCustomerGroup",
+      "id": "cst1681667_001",
+      "email": "info@test.nl",
+      "login": "1681667_001",
+      "organization": {
+        "id": "1681667",
+        "name": "WERKENDAMSE VRW IND BV",
+        "description": "Werkendamse Verwarmings Industrie B.V.",
+        "customerNumber": "1681667",
+        "orderLimitPerDay": 0,
+        "salesOfficeNumber": "16",
+        "securitySettings": null
+      },
+      "addresses": [
+        {
+          "id": "SHP249723",
+          "lastName": "",
+          "addressLine1": "HALSTERSEBAAN",
+          "addressLine2": "29",
+          "addressLine3": "C",
+          "city": "HEERLE",
+          "postalCode": "4726 SK",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "037",
+          "deliveryLocationSpecification": "TEL06-47890099 INST GILLISSEN"
+        },
+        {
+          "id": "SHP254096",
+          "lastName": "rehorst bouw",
+          "addressLine1": "VRIJENBURGLAAN",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "BARENDRECHT",
+          "postalCode": "2994 HA",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "038",
+          "deliveryLocationSpecification": "tel06-52456641 sandelhout/"
+        },
+        {
+          "id": "SHP261806",
+          "lastName": "verbeek",
+          "addressLine1": "SINT WALBURGKERKPAD",
+          "addressLine2": "3",
+          "addressLine3": "",
+          "city": "TIEL",
+          "postalCode": "4001 MG",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "06-53647790",
+          "deliveryLocationNumber": "039",
+          "deliveryLocationSpecification": "dominicus/0653647790"
+        },
+        {
+          "id": "SHP129324",
+          "lastName": "",
+          "addressLine1": "BEATRIXHAVEN",
+          "addressLine2": "4",
+          "addressLine3": "",
+          "city": "WERKENDAM",
+          "postalCode": "4251 NK",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "510",
+          "deliveryLocationSpecification": "ALTENA INST BV"
+        },
+        {
+          "id": "SHP274905",
+          "lastName": "",
+          "addressLine1": "GULDENWAARD",
+          "addressLine2": "87",
+          "addressLine3": "",
+          "city": "ROTTERDAM",
+          "postalCode": "3078 AH",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0620414815",
+          "deliveryLocationNumber": "017",
+          "deliveryLocationSpecification": "Guldenwaard r'dam"
+        },
+        {
+          "id": "SHP337557",
+          "lastName": "MONTEUR",
+          "addressLine1": "AMNESTY INTERNATIONALWEG",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "DORDRECHT",
+          "postalCode": "3318 AZ",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0651256792",
+          "deliveryLocationNumber": "018",
+          "deliveryLocationSpecification": "Hostel ldh"
+        },
+        {
+          "id": "SHP343828",
+          "lastName": "Tel0652456641",
+          "addressLine1": "VROEDSCHAP",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "BRIELLE",
+          "postalCode": "3232 PW",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "019",
+          "deliveryLocationSpecification": "Aann Rehorst Bouw"
+        },
+        {
+          "id": "SHP206838",
+          "lastName": "",
+          "addressLine1": "ZWARTE ZEE",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "MAASSLUIS",
+          "postalCode": "3144 DE",
+          "phoneNumber": "06-23931179",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "020",
+          "deliveryLocationSpecification": "TEL06-23931179 BAM VOLKER"
+        },
+        {
+          "id": "SHP345861",
+          "lastName": "Jaap kooman",
+          "addressLine1": "SPORTLAAN",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "OUD-BEIJERLAND",
+          "postalCode": "3261 AV",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0651256771",
+          "deliveryLocationNumber": "022",
+          "deliveryLocationSpecification": "appartementen oud-beijerland"
+        },
+        {
+          "id": "SHP227901",
+          "lastName": "eikenhout",
+          "addressLine1": "SCHOUTSTRAAT",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "GORINCHEM",
+          "postalCode": "4204 BD",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0651688772",
+          "deliveryLocationNumber": "026",
+          "deliveryLocationSpecification": "vroedschapswijk"
+        },
+        {
+          "id": "SHP239731",
+          "lastName": "ippel",
+          "addressLine1": "JACQUES BOEZEMANSTRAAT",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "MAASSLUIS",
+          "postalCode": "3145 VG",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0641740825",
+          "deliveryLocationNumber": "031",
+          "deliveryLocationSpecification": "era contour bouw"
+        },
+        {
+          "id": "SHP240042",
+          "lastName": "",
+          "addressLine1": "GERSHWINHOF",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "CULEMBORG",
+          "postalCode": "4102 DL",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "032",
+          "deliveryLocationSpecification": "tel-06-21850345-69 app bm bouw"
+        },
+        {
+          "id": "SHP241817",
+          "lastName": "benny westerlaken",
+          "addressLine1": "HOOGAARS",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "BRIELLE",
+          "postalCode": "3232 TH",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "033",
+          "deliveryLocationSpecification": "tel06-23931179 /88app carre"
+        },
+        {
+          "id": "SHP243487",
+          "lastName": "VERSCHUUR",
+          "addressLine1": "HOEVESTRAAT",
+          "addressLine2": "28",
+          "addressLine3": "",
+          "city": "ROTTERDAM",
+          "postalCode": "3033 GD",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0610000785",
+          "deliveryLocationNumber": "034",
+          "deliveryLocationSpecification": "HOEVESTRAAT"
+        },
+        {
+          "id": "SHP10350",
+          "lastName": "",
+          "addressLine1": "IR. BLANKENSTRAAT",
+          "addressLine2": "6",
+          "addressLine3": "",
+          "city": "WERKENDAM",
+          "postalCode": "4251 NR",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "001",
+          "deliveryLocationSpecification": "WERKENDAMSE VRW.IND.BV"
+        },
+        {
+          "id": "SHP143596",
+          "lastName": "bouwkeet",
+          "addressLine1": "SCHEEPMAKERSHAVEN",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "OUD BEIJERLAND",
+          "postalCode": "3261 KN",
+          "phoneNumber": "0186615432",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "003",
+          "deliveryLocationSpecification": "volkerbouw"
+        },
+        {
+          "id": "SHP269642",
+          "lastName": "",
+          "addressLine1": "CAPELSEWEG",
+          "addressLine2": "39",
+          "addressLine3": "",
+          "city": "CAPELLE AAN DEN IJSSEL",
+          "postalCode": "2907 XA",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0651256771",
+          "deliveryLocationNumber": "009",
+          "deliveryLocationSpecification": "CLUBGEBOUW KCC"
+        },
+        {
+          "id": "SHP270763",
+          "lastName": "",
+          "addressLine1": "MOLENSTEEG",
+          "addressLine2": "2",
+          "addressLine3": "",
+          "city": "EETHEN",
+          "postalCode": "4266 ET",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "010",
+          "deliveryLocationSpecification": "woningen 51 eethen"
+        },
+        {
+          "id": "SHP270826",
+          "lastName": "",
+          "addressLine1": "MIDDENWETERING",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "KRIMPEN AAN DEN IJSSEL",
+          "postalCode": "2922 EC",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0652456641",
+          "deliveryLocationNumber": "011",
+          "deliveryLocationSpecification": "middenwetering 146 app."
+        },
+        {
+          "id": "SHP271920",
+          "lastName": "tel 06-41740825",
+          "addressLine1": "WESDIJKLEEDE",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "BARENDRECHT",
+          "postalCode": "2991 WX",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "012",
+          "deliveryLocationSpecification": "APP 91.DUIJKERZICHT B'DRECHT"
+        },
+        {
+          "id": "SHP273056",
+          "lastName": "j koman",
+          "addressLine1": "SINGEL",
+          "addressLine2": "197",
+          "addressLine3": "",
+          "city": "NIEUWENDIJK NB",
+          "postalCode": "4255 HC",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0651256771",
+          "deliveryLocationNumber": "013",
+          "deliveryLocationSpecification": "woningen 23"
+        },
+        {
+          "id": "SHP273310",
+          "lastName": "dHR VAN IPPEL",
+          "addressLine1": "J V HEEMSKERCKLN",
+          "addressLine2": "34",
+          "addressLine3": "",
+          "city": "MAASSLUIS",
+          "postalCode": "3144 DK",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0641740825",
+          "deliveryLocationNumber": "014",
+          "deliveryLocationSpecification": "MAASSLUIS 65 WONINGEN"
+        },
+        {
+          "id": "SHP273373",
+          "lastName": "",
+          "addressLine1": "RINGDIJK",
+          "addressLine2": "1",
+          "addressLine3": "",
+          "city": "RIDDERKERK",
+          "postalCode": "2981 EV",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0641740825",
+          "deliveryLocationNumber": "015",
+          "deliveryLocationSpecification": "ord 47 app. ridderkerk"
+        },
+        {
+          "id": "SHP274486",
+          "lastName": "monteur",
+          "addressLine1": "KAPTEYNWEG",
+          "addressLine2": "5",
+          "addressLine3": "",
+          "city": "DORDRECHT",
+          "postalCode": "3318 EC",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "0651256771",
+          "deliveryLocationNumber": "016",
+          "deliveryLocationSpecification": "Kapteynweg"
+        },
+        {
+          "id": "SHP245561",
+          "lastName": "",
+          "addressLine1": "HAVENDIJK",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "SCHIEDAM",
+          "postalCode": "3114 EV",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "035",
+          "deliveryLocationSpecification": "wvi 14 won/12 app  rijnstraat"
+        },
+        {
+          "id": "SHP247768",
+          "lastName": "",
+          "addressLine1": "LANDVOOGDES",
+          "addressLine2": "0",
+          "addressLine3": "",
+          "city": "BRIELLE",
+          "postalCode": "3232 PJ",
+          "phoneNumber": "",
+          "mobilePhoneNumber": "",
+          "deliveryLocationNumber": "036",
+          "deliveryLocationSpecification": "tel0623931179 2x28won"
+        }
+      ],
+      "salesBranch": {
+        "id": "16",
+        "name": "Verkoopkantoor Dordrecht",
+        "telephoneNumber": "(078)6546666",
+        "whatsappNumber": "",
+        "emailAddress": "dordrecht@technischeunie.com",
+        "openingTimes": "<p><strong>Verkoopkantoor</strong> <br />Maandag t/m vrijdag van 08.00 tot 17.00 uur, en van 17.00 tot 19.00 uur bereikbaar per e-mail en/of telefoon<br /><br /><strong>Servicecentrum</strong> <br />Maandag t/m vrijdag van 07.00 tot 17.00 uur<br />Zaterdag van 08.00 tot 13.00 uur</p>",
+        "address": {
+          "industrialEstate": "",
+          "streetName": "Rontgenstraat",
+          "streetNumber": "19",
+          "postalCode": "3316 GT",
+          "city": "Dordrecht",
+          "GLN": "",
+          "geoLocation": {
+            "latitude": "51.7803265",
+            "longitude": "4.6335652"
+          }
+        }
+      },
+      "roles": [
+        {
+          "id": "def021",
+          "name": "Download files",
+          "authorised": true
+        },
+        {
+          "id": "def043",
+          "name": "Order from quotations",
+          "authorised": true
+        },
+        {
+          "id": "def065",
+          "name": "Suggest related purchase combinations",
+          "authorised": true
+        },
+        {
+          "id": "def066",
+          "name": "Chat",
+          "authorised": true
+        },
+        {
+          "id": "def041",
+          "name": "View quotations",
+          "authorised": true
+        },
+        {
+          "id": "def020",
+          "name": "Campaigns",
+          "authorised": true
+        },
+        {
+          "id": "def042",
+          "name": "Manage quotations",
+          "authorised": true
+        },
+        {
+          "id": "def040",
+          "name": "Set order limit",
+          "authorised": true
+        },
+        {
+          "id": "def018",
+          "name": "use customer-loyalty program",
+          "authorised": true
+        },
+        {
+          "id": "def016",
+          "name": "use one-off payment",
+          "authorised": true
+        },
+        {
+          "id": "def038",
+          "name": "Submit orders with limit",
+          "authorised": true
+        },
+        {
+          "id": "def017",
+          "name": "view open invoices",
+          "authorised": true
+        },
+        {
+          "id": "def039",
+          "name": "Submit orders colleagues",
+          "authorised": true
+        },
+        {
+          "id": "def014",
+          "name": "view eDocumentation",
+          "authorised": true
+        },
+        {
+          "id": "def058",
+          "name": "Reviews and ratings",
+          "authorised": true
+        },
+        {
+          "id": "def037",
+          "name": "Logistiek online",
+          "authorised": true
+        },
+        {
+          "id": "def012",
+          "name": "return packing request",
+          "authorised": true
+        },
+        {
+          "id": "def034",
+          "name": "Customerpanel",
+          "authorised": true
+        },
+        {
+          "id": "def078",
+          "name": "Emaballage",
+          "authorised": true
+        },
+        {
+          "id": "def013",
+          "name": "view purchase overview",
+          "authorised": true
+        },
+        {
+          "id": "def010",
+          "name": "publish lists",
+          "authorised": true
+        },
+        {
+          "id": "def032",
+          "name": "Multiple shoppingcarts",
+          "authorised": true
+        },
+        {
+          "id": "def054",
+          "name": "Search Product Parts List",
+          "authorised": true
+        },
+        {
+          "id": "def011",
+          "name": "change lists owner",
+          "authorised": true
+        },
+        {
+          "id": "def033",
+          "name": "Request for quotation",
+          "authorised": true
+        },
+        {
+          "id": "def077",
+          "name": "Repairs",
+          "authorised": true
+        },
+        {
+          "id": "def031",
+          "name": "Ordered together",
+          "authorised": true
+        },
+        {
+          "id": "def053",
+          "name": "Customer specific SC",
+          "authorised": true
+        },
+        {
+          "id": "def075",
+          "name": "Returns",
+          "authorised": true
+        },
+        {
+          "id": "def009",
+          "name": "manage lists",
+          "authorised": true
+        },
+        {
+          "id": "def007",
+          "name": "view invoices",
+          "authorised": true
+        },
+        {
+          "id": "def029",
+          "name": "PV Configuration Tool",
+          "authorised": true
+        },
+        {
+          "id": "def008",
+          "name": "view pdf invoices",
+          "authorised": true
+        },
+        {
+          "id": "def005",
+          "name": "manage authorisations",
+          "authorised": true
+        },
+        {
+          "id": "def006",
+          "name": "modify orders",
+          "authorised": true
+        },
+        {
+          "id": "def003",
+          "name": "view orders",
+          "authorised": true
+        },
+        {
+          "id": "def004",
+          "name": "submit order",
+          "authorised": true
+        },
+        {
+          "id": "def026",
+          "name": "profile management",
+          "authorised": true
+        },
+        {
+          "id": "def023",
+          "name": "Message service",
+          "authorised": true
+        },
+        {
+          "id": "def045",
+          "name": "generate pdf catalog from list",
+          "authorised": true
+        },
+        {
+          "id": "def002",
+          "name": "see NET prices",
+          "authorised": true
+        },
+        {
+          "id": "def024",
+          "name": "Auto Login",
+          "authorised": true
+        },
+        {
+          "id": "def069",
+          "name": "Eenmalig adres gebruiken",
+          "authorised": true
+        },
+        {
+          "id": "def071",
+          "name": "Track &amp; Trace",
+          "authorised": true
+        }
+      ]
+    }
+  }
+}
